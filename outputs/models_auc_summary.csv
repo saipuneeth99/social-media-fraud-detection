@@ -1,0 +1,4 @@
+Model,AUC
+GradientBoosting,0.9856545419179148
+RandomForest,0.9828705504765609
+LogisticRegression,0.814591032872982
